@@ -1,13 +1,15 @@
 # Hi, I'm June (Hwijung) Kim
 
-🐜 CS Major At **UCI** 🐜  
-🎲 Game Dev on [Itch](https://gnlwnd1.itch.io/) 🎲  
-📊 Currently Learning: mySQL 📊
+I'm a student at the University of California, Irvine
+
+🐜 Majoring in Computer Science 🐜  
+🎲 I Make Game And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
+📚 Currently Learning: mySQL 📚
 
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwijungK&theme=tokyonights)](https://github.com/anuraghazra/github-readme-stats) -->
-
+:
 <!--
 **HwijungK/HwijungK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

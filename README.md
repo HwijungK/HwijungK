@@ -4,7 +4,7 @@ I'm a student at the University of California, Irvine
 
 🐜 Majoring in Computer Science 🐜  
 🎲 I Make Game And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
-📚 Currently Learning: whatever an API is 📚
+📚 Currently Working On: Simulations On Unity 📚
 
 
 

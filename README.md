@@ -3,7 +3,8 @@
 I'm a student at the University of California, Irvine
 
 🐜 Majoring in Computer Science 🐜  
-🎲 I Make Game And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
+🗄️ Member of Anteater API 🗄️
+🎲 Make Games And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
 📚 Currently Working On: Simulations On Unity 📚
 
 

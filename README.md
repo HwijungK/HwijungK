@@ -2,10 +2,11 @@
 
 I'm a student at the University of California, Irvine
 
-🐜 Majoring in Computer Science 🐜  
-🗄️ Member of Anteater API 🗄️
+🐜 Majoring in Computer Science 🐜 
+🗄️ Co-Lead of [AnteaterAPI](https://anteaterapi.com) 🗄️
 🎲 Make Games And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
-📚 Currently Working On: Simulations On Unity 📚
+🌿 Bioinformatics Undergrad Researcher at [Lee Lab](https://grylee.science/) 🌿
+📚 Currently Working On: Surving 📚
 
 
 

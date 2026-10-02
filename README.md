@@ -3,15 +3,19 @@
 I'm a student at the University of California, Irvine
 
 🐜 Majoring in Computer Science 🐜 
-🗄️ Co-Lead of [AnteaterAPI](https://anteaterapi.com) 🗄️
+
+🗄️ Co-Lead of [AnteaterAPI](https://anteaterapi.com) 🗄️ 
+
 🎲 Make Games And Music on [Itch.io](https://gnlwnd1.itch.io/)! 🎲  
-🌿 Bioinformatics Undergrad Researcher at [Lee Lab](https://grylee.science/) 🌿
-📚 Currently Working On: Surving 📚
+
+🌿 Bioinformatics Undergrad Researcher at [Lee Lab](https://grylee.science/) 🌿 
+
+📚 Currently Working On: Surviving 📚 
 
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwijungK&theme=tokyonights)](https://github.com/anuraghazra/github-readme-stats) -->
-:
+
 <!--
 **HwijungK/HwijungK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
